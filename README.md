@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# React Robofriends app
 
 React app that shows a list of different robots and you can search them by name
 * Robots are taken from this website: https://robohash.org/
